@@ -12,8 +12,9 @@ main: Елизавета Шатохина КПУ //id: 640
 second: Анна Ионова ЗГИА //id: 632
         Ксения Плющ ЗНТУ //id: 642
 
- Usage: main.js <main_candidat_id> <second> <third> <main_time(in seconds)> <second_time>
+ phantomjs main.js 640 632 642
 
+ Usage: main.js <main_candidat_id> <second> <third> <main_time(in seconds)> <second_time>
 */
 
 
